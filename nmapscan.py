@@ -81,3 +81,6 @@ for mac in fnd_mac_addresses:
             print(macAddressDic[mac])
     else:
         print(mac)
+
+print("Press any key to close...")
+input()
